@@ -4,4 +4,4 @@
 A stacked card list
 
 ## Link
-[Card Tricks]()
+[Card Tricks](https://r3nanp-card-tricks.netlify.app/)
